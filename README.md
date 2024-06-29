@@ -7,3 +7,5 @@
 Затем подготовьте запрос в формате JSON и с помощь программы отправьте модели. 
 
 Документация по отправке запроса https://yandex.cloud/ru/docs/foundation-models/operations/yandexgpt/create-prompt
+
+Токены https://pastebin.com/n9k1XADW
